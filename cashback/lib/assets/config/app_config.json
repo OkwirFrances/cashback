@@ -1,0 +1,10 @@
+{
+  "app_name": "Cashback Rewards",
+  "version": "1.0.0",
+  "api_base_url": "https://api.cashbackapp.com/v1",
+  "default_currency": "UGX",
+  "supported_networks": ["MTN", "Airtel"],
+  "min_withdrawal_amount": 1000,
+  "max_withdrawal_amount": 1000000,
+  "default_country_code": "UG"
+}

@@ -1,0 +1,28 @@
+{
+  "welcome": "Welcome",
+  "login": "Login",
+  "register": "Register",
+  "email": "Email",
+  "password": "Password",
+  "phone": "Phone Number",
+  "name": "Full Name",
+  "balance": "Balance",
+  "withdraw": "Withdraw",
+  "deposit": "Deposit",
+  "transactions": "Transactions",
+  "profile": "Profile",
+  "settings": "Settings",
+  "logout": "Logout",
+  "offers": "Special Offers",
+  "merchants": "Featured Merchants",
+  "cashback": "Cashback",
+  "select_network": "Select Network",
+  "amount": "Amount",
+  "continue": "Continue",
+  "error": {
+    "required": "This field is required",
+    "invalid_email": "Invalid email address",
+    "invalid_phone": "Invalid phone number",
+    "short_password": "Password must be at least 6 characters"
+  }
+}

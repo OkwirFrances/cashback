@@ -1,0 +1,24 @@
+{
+  "categories": [
+    {
+      "id": "cat1",
+      "name": "Supermarkets",
+      "icon": "assets/images/supermarket.png"
+    },
+    {
+      "id": "cat2",
+      "name": "Restaurants",
+      "icon": "assets/images/restaurant.png"
+    },
+    {
+      "id": "cat3",
+      "name": "Electronics",
+      "icon": "assets/images/electronics.png"
+    },
+    {
+      "id": "cat4",
+      "name": "Fashion",
+      "icon": "assets/images/fashion.png"
+    }
+  ]
+}
